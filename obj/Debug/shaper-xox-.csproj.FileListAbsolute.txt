@@ -1,0 +1,12 @@
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\bin\Debug\ProjeFarklıMantık(23.10.2016).exe.config
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\obj\Debug\ProjeFarklıMantık(23.10.2016).exe
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\obj\Debug\ProjeFarklıMantık(23.10.2016).pdb
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\bin\Debug\ProjeFarklıMantık(23.10.2016).exe
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\bin\Debug\ProjeFarklıMantık(23.10.2016).pdb
+C:\Users\akifc\Desktop\1-Shaper(XOX)(23.10.2016)\ProjeFarklıMantık(23.10.2016)\obj\Debug\shaper-xox-.csprojResolveAssemblyReference.cache
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\bin\Debug\ProjeFarklıMantık(23.10.2016).exe.config
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\bin\Debug\ProjeFarklıMantık(23.10.2016).exe
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\bin\Debug\ProjeFarklıMantık(23.10.2016).pdb
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\obj\Debug\shaper-xox-.csprojResolveAssemblyReference.cache
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\obj\Debug\ProjeFarklıMantık(23.10.2016).exe
+C:\Users\akifc\Desktop\WorkSpace\GitHub\Shaper-XOX-\obj\Debug\ProjeFarklıMantık(23.10.2016).pdb
